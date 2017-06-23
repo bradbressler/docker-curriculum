@@ -1,4 +1,4 @@
-# Instructions copied from - https://hub.docker.com/_/python/
+# our base image
 FROM python:3-onbuild
 
 # tell the port number the container should expose
